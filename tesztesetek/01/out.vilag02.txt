@@ -1,0 +1,15 @@
+kartya;Aragorn;2;5;tuz
+kartya;Sadan;2;4;levego
+kartya;Corky;2;4;fold
+kartya;Kira;2;7;levego
+kartya;Eowyn;2;5;viz
+kartya;ObiWan;2;2;fold
+kartya;Tul'Arak;2;4;fold
+
+vezer;Darth ObiWan;4;2;fold
+
+kazamata;egyszeru;Teszt1a Kazamata;Sadan;eletero
+kazamata;egyszeru;Teszt1b Kazamata;Aragorn;sebzes
+kazamata;kis;Teszt2a Kazamata;Aragorn,Eowyn,ObiWan;Darth ObiWan;eletero
+kazamata;kis;Teszt2b Kazamata;Sadan,Eowyn,Kira;Darth ObiWan;sebzes
+kazamata;nagy;Teszt3 Kazamata;Aragorn,Eowyn,ObiWan,Kira,Tul'Arak;Darth ObiWan

@@ -1,0 +1,2 @@
+gyujtemeny;Aragorn;5;2;tuz
+gyujtemeny;Eowyn;5;2;viz

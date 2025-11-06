@@ -1,0 +1,15 @@
+harc kezdodik;Teszt1a Kazamata
+
+1.kor;kazamata;kijatszik;Sadan;2;4;levego
+1.kor;jatekos;kijatszik;Corky;2;4;fold
+
+2.kor;kazamata;tamad;Sadan;4;Corky;0
+2.kor;jatekos;kijatszik;Kira;2;7;levego
+
+3.kor;kazamata;tamad;Sadan;2;Kira;5
+3.kor;jatekos;tamad;Kira;2;Sadan;2
+
+4.kor;kazamata;tamad;Sadan;2;Kira;3
+4.kor;jatekos;tamad;Kira;2;Sadan;0
+
+jatekos nyert;eletero;Kira

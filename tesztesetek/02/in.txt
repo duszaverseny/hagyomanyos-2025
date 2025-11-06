@@ -1,0 +1,13 @@
+uj kartya;Aragorn;5;2;tuz
+uj kartya;Eowyn;5;2;viz
+
+uj jatekos
+
+felvetel gyujtemenybe;Aragorn
+felvetel gyujtemenybe;Eowyn
+
+export vilag;T_006.out.txt
+
+export jatekos;T_006_jatekos.out.txt;
+
+

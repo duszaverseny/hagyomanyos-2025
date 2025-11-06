@@ -1,0 +1,2 @@
+kartya;Aragorn;5;2;tuz
+kartya;Eowyn;5;2;viz
