@@ -1,12 +1,13 @@
 # Dusza Árpád Programozó Emlékverseny
-*Hagyományos programozói verseny, 1. forduló, 2025. november 7-9.*
+*Hagyományos programozói verseny, 2025/2026*
 
 Kedves versenyzők! Ebben a GitHub repository-ban hasznos információkat találtok
 a versennyel kapcsolatban.
 
 A feladatkiírás szövegét pdf formátumban itt is megtaláljátok:
 
-[Feladatkiírás](./Hivatalos%20feladatkiírás%20-%20Hagyományos%20verseny.pdf)
+[1. fordulós feladatkiírás](./Hivatalos%20feladatkiírás%20-%20Hagyományos%20verseny.pdf)
+[2. fordulós feladatkiírás](./Hivatalos%20feladatkiírás%20-%20Második%20Forduló.pdf)
 
 ## Parancsssori paraméterek kezelése
 
