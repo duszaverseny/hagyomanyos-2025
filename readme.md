@@ -7,6 +7,7 @@ a versennyel kapcsolatban.
 A feladatkiírás szövegét pdf formátumban itt is megtaláljátok:
 
 [1. fordulós feladatkiírás](./Hivatalos%20feladatkiírás%20-%20Hagyományos%20verseny.pdf)
+
 [2. fordulós feladatkiírás](./Hivatalos%20feladatkiírás%20-%20Második%20Forduló.pdf)
 
 ## Parancsssori paraméterek kezelése
