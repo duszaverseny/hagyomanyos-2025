@@ -8,6 +8,4 @@ felvetel gyujtemenybe;Eowyn
 
 export vilag;T_006.out.txt
 
-export jatekos;T_006_jatekos.out.txt;
-
-
+export jatekos;T_006_jatekos.out.txt
